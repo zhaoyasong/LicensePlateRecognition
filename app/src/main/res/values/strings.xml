@@ -1,0 +1,5 @@
+<resources>
+    <string name="plate_rect">车牌识别区</string>
+
+    <string name="app_name">车辆牌照识别</string>
+</resources>
